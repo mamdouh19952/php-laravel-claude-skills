@@ -1,0 +1,31 @@
+{
+  "name": "php-laravel-claude-skills",
+  "owner": {
+    "name": "Mamdouh"
+  },
+  "metadata": {
+    "description": "Claude Code skills for PHP work: Laravel Blade apps, Laravel REST APIs, simple native PHP + MySQL sites, and deploying to shared hosting (cPanel / hPanel). Simple, clean, secure code — no over-engineering."
+  },
+  "plugins": [
+    {
+      "name": "laravel-blade",
+      "source": "./plugins/laravel-blade",
+      "description": "Server-rendered Laravel: Blade + Bootstrap + vanilla JS, FormRequests, flash toasts, auth with laravel/ui, media uploads with image optimization."
+    },
+    {
+      "name": "laravel-api",
+      "source": "./plugins/laravel-api",
+      "description": "Laravel REST APIs: one JSON envelope, FormRequests, API Resources, Sanctum tokens, role middleware, transactions with row locks."
+    },
+    {
+      "name": "native-php",
+      "source": "./plugins/native-php",
+      "description": "Simple native PHP + MySQL sites: page-per-file, PDO prepared statements, CSRF, sessions, flash messages, safe uploads."
+    },
+    {
+      "name": "shared-hosting-deploy",
+      "source": "./plugins/shared-hosting-deploy",
+      "description": "Deploy Laravel or native PHP to shared hosting (cPanel / Hostinger hPanel) without exposing .env, plus the common traps and a launch checklist."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "shared-hosting-deploy",
+  "version": "1.0.0",
+  "description": "Deploy Laravel or native PHP to shared hosting (cPanel / hPanel) safely, avoid the common traps, and run a launch checklist.",
+  "author": { "name": "Mamdouh" },
+  "homepage": "https://github.com/mamdouh19952/php-laravel-claude-skills",
+  "repository": "https://github.com/mamdouh19952/php-laravel-claude-skills",
+  "license": "MIT",
+  "keywords": ["deploy", "cpanel", "hostinger", "shared-hosting", "laravel", "php"]
+}

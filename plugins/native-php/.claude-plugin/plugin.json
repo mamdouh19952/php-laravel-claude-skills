@@ -1,0 +1,10 @@
+{
+  "name": "native-php",
+  "version": "1.0.0",
+  "description": "Conventions for simple native PHP + MySQL sites: page-per-file, PDO prepared statements, CSRF, sessions, flash messages, safe uploads.",
+  "author": { "name": "Mamdouh" },
+  "homepage": "https://github.com/mamdouh19952/php-laravel-claude-skills",
+  "repository": "https://github.com/mamdouh19952/php-laravel-claude-skills",
+  "license": "MIT",
+  "keywords": ["php", "mysql", "pdo", "native-php"]
+}

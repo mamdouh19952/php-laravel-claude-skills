@@ -1,0 +1,10 @@
+{
+  "name": "laravel-api",
+  "version": "1.0.0",
+  "description": "Conventions for Laravel REST APIs: one JSON response envelope, FormRequests, API Resources, Sanctum tokens, role middleware.",
+  "author": { "name": "Mamdouh" },
+  "homepage": "https://github.com/mamdouh19952/php-laravel-claude-skills",
+  "repository": "https://github.com/mamdouh19952/php-laravel-claude-skills",
+  "license": "MIT",
+  "keywords": ["laravel", "api", "rest", "sanctum", "php"]
+}

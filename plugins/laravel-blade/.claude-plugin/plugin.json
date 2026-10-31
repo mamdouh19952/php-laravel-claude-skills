@@ -1,0 +1,10 @@
+{
+  "name": "laravel-blade",
+  "version": "1.0.0",
+  "description": "Conventions for server-rendered Laravel apps: Blade + Bootstrap + vanilla JS, FormRequests, flash toasts, laravel/ui auth, Spatie media with image optimization.",
+  "author": { "name": "Mamdouh" },
+  "homepage": "https://github.com/mamdouh19952/php-laravel-claude-skills",
+  "repository": "https://github.com/mamdouh19952/php-laravel-claude-skills",
+  "license": "MIT",
+  "keywords": ["laravel", "blade", "bootstrap", "php"]
+}
