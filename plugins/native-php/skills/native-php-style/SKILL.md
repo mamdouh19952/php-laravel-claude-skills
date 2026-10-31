@@ -1,6 +1,6 @@
 ---
 name: native-php-style
-description: Conventions for simple native (plain, no-framework) PHP + MySQL websites — page-per-file with includes, PDO prepared statements, sessions, CSRF, flash messages, safe image uploads, Bootstrap, Arabic/English. Use whenever building or editing a small PHP site without Laravel — a login/register system, a blog, a task manager, a CRUD admin page, a contact form, a small JSON endpoint — or when fixing/reviewing plain PHP code that uses mysqli/PDO, $_POST, $_SESSION, header('Location'). Trigger words: native PHP, plain PHP, vanilla PHP, PHP and MySQL, mysqli, PDO, no framework, بي اتش بي عادي, نيتف. Not for Laravel projects (use laravel-blade-style / laravel-api-style).
+description: 'Conventions for simple native (plain, no-framework) PHP + MySQL websites — page-per-file with includes, PDO prepared statements, sessions, CSRF, flash messages, safe image uploads, Bootstrap, Arabic/English. Use whenever building or editing a small PHP site without Laravel — a login/register system, a blog, a task manager, a CRUD admin page, a contact form, a small JSON endpoint — or when fixing/reviewing plain PHP code that uses mysqli/PDO, $_POST, $_SESSION, header(''Location''). Trigger words: native PHP, plain PHP, vanilla PHP, PHP and MySQL, mysqli, PDO, no framework, بي اتش بي عادي, نيتف. Not for Laravel projects (use laravel-blade-style / laravel-api-style).'
 ---
 
 # Native PHP style

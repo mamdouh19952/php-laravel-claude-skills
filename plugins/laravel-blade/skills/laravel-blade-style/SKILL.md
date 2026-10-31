@@ -1,6 +1,6 @@
 ---
 name: laravel-blade-style
-description: Conventions for server-rendered Laravel projects — Blade templates, Bootstrap, HTML/CSS, and vanilla JS (jQuery only for Toastr) — for admin panels, dashboards, catalogs, stores, and small business systems. Use whenever working in a Laravel project that renders Blade views — adding a page, a CRUD screen, a web route, a web controller, a Blade layout/component/partial, a form, auth pages, Toastr notifications, the loader, file/image uploads, or small JS interactions — even if the skill isn't named. Not for JSON APIs (use laravel-api-style) or Vue/React SPAs. Trigger words: Blade, Bootstrap, web.php, view, layout, partial, Blade component, admin panel, dashboard, CRUD, form, Toastr, jQuery, لارافيل بليد.
+description: 'Conventions for server-rendered Laravel projects — Blade templates, Bootstrap, HTML/CSS, and vanilla JS (jQuery only for Toastr) — for admin panels, dashboards, catalogs, stores, and small business systems. Use whenever working in a Laravel project that renders Blade views — adding a page, a CRUD screen, a web route, a web controller, a Blade layout/component/partial, a form, auth pages, Toastr notifications, the loader, file/image uploads, or small JS interactions — even if the skill isn''t named. Not for JSON APIs (use laravel-api-style) or Vue/React SPAs. Trigger words: Blade, Bootstrap, web.php, view, layout, partial, Blade component, admin panel, dashboard, CRUD, form, Toastr, jQuery, لارافيل بليد.'
 ---
 
 # Laravel Blade style
